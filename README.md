@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently attending a coding bootcamp;<br>🌱 I’m currently learning React.<br>
+🔭 I’m currently attending a coding bootcamp;<br>🌱 I’m currently learning Express.<br>
 
 
 ## 🌐 Socials:
