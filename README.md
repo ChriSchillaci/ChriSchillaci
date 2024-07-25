@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently attending a coding bootcamp;<br>🌱 I’m currently learning Express.<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-schillaci-61ba2b26a) 
 
